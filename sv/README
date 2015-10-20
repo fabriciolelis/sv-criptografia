@@ -1,0 +1,8 @@
+Speaker Verification Software
+
+
+How to Use
+./sp -wav adio_file -codebook cb_file
+
+-wav: The input file in .wav format.
+-codebook: The input file with the codebook genarated in training phase.
