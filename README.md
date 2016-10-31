@@ -1,4 +1,2 @@
 # sv-criptografia
-Este é um programa que reconhece usuários através da voz.
-Ele utiliza coeficientes Mel-cepstrais para extrair as características vocais de um locutor.
-Utiliza também um programa de criptografia para armazenar os padrões vocais dos locutores.
+This is a program that recognizes users by voice. It utilizes Mel-cepstral coefficients to extract the vocal characteristics of a speaker. It also uses an encryption program to store the vocal patterns of the speakers.
